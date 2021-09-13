@@ -1,7 +1,6 @@
 # DOCKER AND LARAVEL = ❤
 
 =========================
-= = = = = = = = = = = = = = =
 
 It is simple laravel template for docker
 with using docker-compose to describe envirment.
