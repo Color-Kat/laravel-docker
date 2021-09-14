@@ -34,6 +34,7 @@ services:
     image: adminer
     # restart container if an error occurs
     restart: always
+    # adminer work on :6080 port
     ports:
       - 6080:8080
 
